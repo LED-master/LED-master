@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LED-master
 - 👀 I’m interested in reading,hiking and running.
-- 🌱 I’m currently learning pytorch and pytho
+- 🌱 I’m currently learning pytorch and python
 
 
 <!---
